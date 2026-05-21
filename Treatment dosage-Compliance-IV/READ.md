@@ -107,7 +107,7 @@ This project demonstrates how experimental and panel data methods can be used to
 
 The figure below shows how the negative effect of ad load evolves across weeks of the experiment.
 
-![Treatment Effect Over Time] <img width="452" height="232" alt="Screenshot 2026-05-20 183954" src="https://github.com/user-attachments/assets/bc32d8ae-552e-464f-ba1e-22c223724f98" />
+ <img width="452" height="232" alt="Screenshot 2026-05-20 183954" src="https://github.com/user-attachments/assets/bc32d8ae-552e-464f-ba1e-22c223724f98" />
 
 
 ---
@@ -116,7 +116,7 @@ The figure below shows how the negative effect of ad load evolves across weeks o
 
 The following figure shows when the treatment effect became statistically significant.
 
-![T-Statistics]<img width="448" height="234" alt="Screenshot 2026-05-20 184014" src="https://github.com/user-attachments/assets/fc58db82-27a8-412d-ac78-5c73868cc748" />
+<img width="448" height="234" alt="Screenshot 2026-05-20 184014" src="https://github.com/user-attachments/assets/fc58db82-27a8-412d-ac78-5c73868cc748" />
 
 
 ---
@@ -125,5 +125,5 @@ The following figure shows when the treatment effect became statistically signif
 
 This scatter plot illustrates imperfect treatment realization and non-compliance.
 
-![Actual vs Intended Ads]<img width="397" height="352" alt="Screenshot 2026-05-20 191553" src="https://github.com/user-attachments/assets/feb8d773-da01-4d54-a0c2-464772a45b7a" />
+<img width="397" height="352" alt="Screenshot 2026-05-20 191553" src="https://github.com/user-attachments/assets/feb8d773-da01-4d54-a0c2-464772a45b7a" />
 
