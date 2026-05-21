@@ -103,7 +103,7 @@ This project demonstrates how experimental and panel data methods can be used to
 
 ### Visulization 
 
-## Treatment Effect Over Time
+#### Treatment Effect Over Time
 
 The figure below shows how the negative effect of ad load evolves across weeks of the experiment.
 
@@ -112,7 +112,7 @@ The figure below shows how the negative effect of ad load evolves across weeks o
 
 ---
 
-## T-Statistics Over Time
+#### T-Statistics Over Time
 
 The following figure shows when the treatment effect became statistically significant.
 
@@ -121,7 +121,7 @@ The following figure shows when the treatment effect became statistically signif
 
 ---
 
-## Intended vs Actual Ad Exposure
+#### Intended vs Actual Ad Exposure
 
 This scatter plot illustrates imperfect treatment realization and non-compliance.
 
